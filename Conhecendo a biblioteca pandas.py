@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 20 17:08:49 2023
-
-@author: usuario
-"""
 
 
 #link para ve correção 

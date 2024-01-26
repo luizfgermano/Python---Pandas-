@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 30 15:17:26 2023
 
-@author: usuario
-"""
 
 '''
 
